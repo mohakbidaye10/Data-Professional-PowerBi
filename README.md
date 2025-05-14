@@ -10,6 +10,6 @@ A Power BI dashboard analyzing survey responses from data professionals. It high
 - Perceived difficulty of entering the data field
 - Favorite programming languages
 
-# This project was built for learning and showcasing Power BI data visualization skills.
+This project was built for learning and showcasing Power BI data visualization skills.
 
 
